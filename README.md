@@ -30,9 +30,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chihoon0415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chihoon0415" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chihoon song" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chihoon song" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/chihoon song" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chihoon song" height="30" width="40" /></a>
 <a href="https://fb.com/clgns0415@naver.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="clgns0415@naver.com" height="30" width="40" /></a>
 <a href="https://instagram.com/clgns0415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clgns0415" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/마르헤드" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="마르헤드" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
