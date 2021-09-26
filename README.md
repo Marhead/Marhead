@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [KHUMU-DEV](https://github.com/khu-dev/khumu-noticecrawler)
 
-- 🌱 I’m currently learning **EVERYTHING!!!(Including Math and Philosophy!))**
+- 🌱 I’m currently learning **EVERYTHING!!!(Including Math and Philosophy!)**
 
 - 👯 I’m looking to collaborate on **Dapp Project!**
 
@@ -39,7 +39,7 @@
 
 ### Contact
 
-<img src="https://img.shields.io/badge/clgns0415@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/clgns0415@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>  <img src="https://img.shields.io/badge/Marhead's_Den-272730?style=flat&logo=HomeAssistantCommunityStore&logoColor=white"/>
+<img src="https://img.shields.io/badge/clgns0415@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/clgns0415@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>  <img src="https://img.shields.io/badge/Marhead's_Den-272730?style=flat&logo=HomeAssistantCommunityStore&logoColor=white"/>(https://hoonesden.tech/)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marhead" alt="marhead" /></a> </p>
 
