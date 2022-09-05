@@ -5,17 +5,17 @@
  -->
 <!-- <p align="left"> <a href="https://twitter.com/chihoon0415" target="blank"><img src="https://img.shields.io/twitter/follow/chihoon0415?logo=twitter&style=for-the-badge" alt="chihoon0415" /></a> </p> -->
 
-- 🔭 I’m currently working on [KHUMU-DEV](https://github.com/khu-dev/khumu-noticecrawler)
+- 🔭 I’m currently working on [Eoncare]()
 
 - 🌱 I’m currently learning **EVERYTHING!!!(Including Math and Philosophy!)**
 
-- 👯 I’m looking to collaborate on **Dapp Project!**
+- 👯 I’m looking to collaborate on **Game Programming!**
 
 - 🤝 I’m looking for help with [Spring-Batch](https://github.com/spring-projects/spring-batch)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marhead?tab=repositories](https://github.com/Marhead?tab=repositories)
 
-- 📝 I regularly write articles on [https://hoonesden.tech/](https://hoonesden.tech/)
+- 📝 I regularly write articles on [https://hoonesden.com/](https://hoonesden.com/)
 
 - 💬 Ask me about **Spring, Python**
 
