@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **clgns0415@naver.com**
 
-- 📄 Know about my experiences [https://hoonesden.tech/tabs/about/](https://hoonesden.tech/tabs/about/)
+- 📄 Know about my experiences [https://hoonesden.com/about/](https://hoonesden.com/about/)
 
 - ⚡ Favorite quote **"Only those who will risk going too far can possibly find out how far one can go." -T. S. Eliot**
 
