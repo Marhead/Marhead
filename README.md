@@ -5,19 +5,19 @@
  -->
 <!-- <p align="left"> <a href="https://twitter.com/chihoon0415" target="blank"><img src="https://img.shields.io/twitter/follow/chihoon0415?logo=twitter&style=for-the-badge" alt="chihoon0415" /></a> </p> -->
 
-- 🔭 I’m currently working on [Eoncare]()
+- 🔭 I’m currently working on [Dfinite](https://www.dfinite.ai/)
 
 - 🌱 I’m currently learning **EVERYTHING!!!(Including Math and Philosophy!)**
 
 - 👯 I’m looking to collaborate on **Game Programming!**
 
-- 🤝 I’m looking for help with [Spring-Batch](https://github.com/spring-projects/spring-batch)
+- 🤝 I’m looking for help with [rust-axum](https://github.com/tokio-rs/axum)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marhead?tab=repositories](https://github.com/Marhead?tab=repositories)
 
 - 📝 I regularly write articles on [https://hoonesden.com/](https://hoonesden.com/)
 
-- 💬 Ask me about **Spring, Python**
+- 💬 Ask me about **Python, Docker**
 
 - 📫 How to reach me **clgns0415@naver.com**
 
