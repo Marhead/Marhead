@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python, Docker**
 
-- 📫 How to reach me **clgns0415@naver.com**
+- 📫 How to reach me **clgns0415@gmail.com**
 
 - 📄 Know about my experiences [https://hoonesden.com/about/](https://hoonesden.com/about/)
 
